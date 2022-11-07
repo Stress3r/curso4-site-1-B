@@ -1,0 +1,34 @@
+
+#celular {
+    width: 100;
+    height: 100px;
+}
+
+
+h1 {
+    font-size: 33px;
+    text-align: center;
+    background: rgb(169, 240, 203);
+    
+}
+
+p {
+
+    text-align: center;
+}
+
+.beneficios {
+    background: rgb(169, 240, 203);
+}
+
+    ul {
+    
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 15%;
+        width: 40%;
+    }
+
+    #celular1 {
+         width: 20%;
+    }
